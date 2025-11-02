@@ -1,45 +1,30 @@
-# Excel-Sales-Analytics
-## Sales Report :
+# Sales Analytics Project (Codebasics Bootcamp)
 
+## 📘 Project Overview
+This project analyzes company sales data to identify trends, patterns, and actionable insights for management. It focuses on improving revenue growth and profitability using Excel and Power BI.
 
-- **Project objective:** 
+## 🧰 Tools & Techniques
+- Excel (Power Query, Power Pivot)
+- DAX Calculations for KPIs
+- Power BI Dashboard
+- Data Cleaning and Transformation
 
-    **1.** Created a _[customer performance report]-https://github.com/Swetha1405/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf
+## 📊 Key Reports
+1. **Sales Overview Dashboard** – Total Sales, Profit, and Growth %
+2. **Regional Performance** – Sales and Profit by Region
+3. **Product Analysis** – Top & Bottom Performing Products
+4. **Customer Insights** – Segment-based sales trends
 
-    **2.** Conducted a comprehensive comparison between _[market performance and sales targets]-https://github.com/Swetha1405/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
+## 🔍 Key Insights
+- Sales grew 18% YoY with East Region leading.
+- Corporate Segment had the highest profit margin (32%).
+- Identified underperforming categories for cost optimization.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+## 🧠 Learnings
+- Built complete ETL process in Excel
+- Designed an interactive Power BI dashboard
+- Gained hands-on experience with DAX, KPIs, and storytelling
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
-
-
-## Finance Report :
-
-- **Project objective:** 
-
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/Swetha1405/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf & _[Months]-https://github.com/Swetha1405/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]-https://github.com/Swetha1405/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
-
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
+📍 *Part of Codebasics Data Analytics Bootcamp (2025)*
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
