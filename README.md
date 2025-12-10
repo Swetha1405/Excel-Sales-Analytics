@@ -119,7 +119,7 @@ Amazon, Atliq e-Store, Atliq Exclusive show strong demand → continue pushing o
 ---
 
 ## 📂 Project Files
-- `sales_analysis.xlsx` – cleaned dataset  
+- `customer & market performance report-.xlsx` – file  
 - `customer_performace_report.pdf` – final report 
 - `sales_market_report.pdf` – performance vs. target final report 
 - `README.md` – project documentation (this file)
