@@ -97,16 +97,6 @@ Examples from Market-wise 2021 sales:
 (From Market P&L) :contentReference[oaicite:6]{index=6}
 
 These are high-potential regions for continued expansion.
-
----
-
-## 📈 Visuals Created in Excel
-- Customer-wise YoY Growth Chart  
-- Customer Ranking (Top 10 Customers)  
-- Country-wise Sales vs Target bar chart  
-- Global Net Sales YoY Trend line  
-- Segment-level performance dashboard  
-
 ---
 
 ## 💡 Recommendations
